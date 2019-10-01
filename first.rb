@@ -1,5 +1,5 @@
   
-# # puts 'hello world';   
+# # puts 'hello wo
 # exm = [4, 4.0, "Jose", ]   
 # # puts exm[-3]
 # # exm = Array("a"..."z")   
